@@ -1,0 +1,39 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.calc {
+  width: 400px;
+  height: 760px;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+}
+.calc .c-org {
+  font-size: 4rem;
+  font-weight: 700;
+  border: none;
+  background-color: black;
+  color: #FE713C;
+}
+.calc .c-white {
+  font-size: 4rem;
+  font-weight: 700;
+  border: none;
+  background-color: black;
+  color: #ffffff;
+}
+
+.bg-orange {
+  background-color: #FE713C;
+  border-radius: 50%;
+  border: none;
+  font-size: 4rem;
+  color: #ffffff;
+  height: 5rem;
+  width: 5rem;
+}
